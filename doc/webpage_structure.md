@@ -52,7 +52,19 @@ Hackathon
 
 ## Resource & FAQs
 
-FAQ暂时留空由我和Joshua整理之后增加
+FAQ
+
+OpenHW是怎样的平台
+
+OpenHW和其他竞赛什么关系
+
+我如何加入OpenHW平台
+
+OpenHW上作品的知识产权归属
+
+
+
+除了比赛项目还有哪些服务
 
 Resources: 
 
