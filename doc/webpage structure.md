@@ -22,6 +22,8 @@ Summer camp
 
 Winter Camp
 
+![Hackathon](webpage structure.assets/Hackathon-16394684723441.jpg)
+
 Hackathon
 
 ## ~~Events~~ Program
