@@ -16,7 +16,7 @@ Service（子页面） -> Gallery/ Projects Archive
 
 ## Banner
 
-![Summer_camp](.\webpage_structure.assets\Summer_camp.jpg)
+![Summer_camp](webpage_structure.assets\Summer_camp.jpg)
 
 Summer camp
 
