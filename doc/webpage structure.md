@@ -22,7 +22,7 @@ Summer camp
 
 Winter Camp
 
-![Hackathon](webpage structure.assets/Hackathon-16394684723441.jpg)
+![Hackathon](./webpage structure.assets/Hackathon.jpg)
 
 Hackathon
 
@@ -90,15 +90,15 @@ Xilinx University Program Website : [www.xilinx.com/university](http://www.xilin
 
 全国大学生FPGA创新设计竞赛 https://fpgachina.cn
 
-![image-20211128113335063](webpage structure.assets/image-20211128113335063.png)
+![image-20211128113335063](./webpage structure.assets/image-20211128113335063.png)
 
 研究生电子设计竞赛 [中国研究生创新实践系列大赛管理平台 (acge.org.cn)](https://cpipc.acge.org.cn/cw/hp/6)
 
-![image-20211128113315940](webpage structure.assets/image-20211128113315940.png)
+![image-20211128113315940](./webpage structure.assets/image-20211128113315940.png)
 
 [定制计算算法实现挑战赛| CCC2021 (xupsh.github.io)](https://xupsh.github.io/ccc2021/)
 
-![image-20211128113726851](webpage structure.assets/image-20211128113732028.png)
+![image-20211128113726851](./webpage structure.assets/image-20211128113732028.png)
 
 ## 每年Featured Projects
 
@@ -110,7 +110,7 @@ Xilinx University Program Website : [www.xilinx.com/university](http://www.xilin
 
 项目：
 
-![第一名](webpage structure.assets/9.png)
+![第一名](./webpage structure.assets/9.png)
 
 link: 开源H.265视频编码芯片IP核 http://openasic.org/
 
