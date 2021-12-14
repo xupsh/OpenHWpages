@@ -122,7 +122,7 @@ link: Design Space Exploration of Enegy Efficient Lightweight Neural Network on 
 
 link: Algorithm-hardware co-design for pulsar coherent de-dispersion algorithm on FPGAhttps://github.com/kongxiangcong/Pulsar-FPGA
 
-![Result](./assets/1.png)
+![Result](assets/1.png)
 
 link: [基于HLS的LZ77数据压缩算法实现](https://github.com/bjrjk/HLS-LZ77)
 
