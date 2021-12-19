@@ -52,7 +52,7 @@ Hackathon
 
 ## Resource & FAQs
 
-FAQ
+FAQ/
 
 OpenHW是怎样的平台
 
