@@ -121,6 +121,61 @@ Xilinx University Program Website : [www.xilinx.com/university](http://www.xilin
 ![image-20211128113726851](./webpage_structure.assets/image-20211128113732028.png)
 
 ## 每年Featured Projects
+### 2021
+
+#### From FPGA Innovation Contests(Link暂无)
+
+基于Artix-7的导线、网络长度测量仪
+
+![image-20211221121510308](webpage_structure.assets/image-20211221121510308.png)
+
+基于FPGA的一种抗量子数字签名加密
+
+![image-20211221121622458](webpage_structure.assets/image-20211221121622458.png)
+
+基于FPGA的音游作曲一体机
+
+![image-20211221121724343](webpage_structure.assets/image-20211221121724343.png)
+
+基于时滞储备池的混沌加密通信系统设计
+
+ ![image-20211221121750751](webpage_structure.assets/image-20211221121750751.png)
+
+小规模SLAM视觉里程计加速专用电路
+
+![image-20211221121816244](webpage_structure.assets/image-20211221121816244.png)
+
+基于RISC-V的积木式可拼接图像化编程系统
+
+![image-20211221121833382](webpage_structure.assets/image-20211221121833382.png)
+
+基于ZYNQ7035的相干激光测风雷达系统
+
+![image-20211221121859223](webpage_structure.assets/image-20211221121859223.png)
+
+基于序列神经网络的自适应光纤传感系统
+
+![image-20211221121920594](webpage_structure.assets/image-20211221121920594.png)
+
+基于PYNQ-DPU的RSNA肺炎检测
+
+![image-20211221121958141](webpage_structure.assets/image-20211221121958141.png)
+
+基于PYNQ的核酸采样装置
+
+![image-20211221122027674](webpage_structure.assets/image-20211221122027674.png)
+
+基于单目深度估计网络的全息显示终端
+
+![image-20211221122055722](webpage_structure.assets/image-20211221122055722.png)
+
+基于神经网络的心肺音分离系统
+
+![image-20211221122133093](webpage_structure.assets/image-20211221122133093.png)
+
+基于小型旋转永磁体式机械天线的跨介通信系统
+
+![image-20211221122229362](webpage_structure.assets/image-20211221122229362.png)
 
 ### 2020
 

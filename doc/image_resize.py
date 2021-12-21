@@ -2,8 +2,8 @@ from PIL import Image
 import glob
 import os
 
-files =  glob.glob(r'C:\Users\xushi\XilinxOpenHW\doc\webpage_structure.assets\*')
-OUTPUT_PATH = r'C:\Users\xushi\XilinxOpenHW\doc\resized'
+files =  glob.glob(r'C:\Users\lesliex\XilinxOpenHW\doc\webpage_structure.assets\*')
+OUTPUT_PATH = r'C:\Users\lesliex\XilinxOpenHW\doc\resized'
 
 
 for  file in files:
