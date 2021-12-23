@@ -14,6 +14,18 @@ FAQs -> Resources & FAQs
 
 Service（子页面） -> Gallery/ Projects Archive
 
+## Footer Logo
+
+![xuplogo](webpage_structure.assets/xuplogo.png)
+
+(透明底、白色字)
+
+## Header Logo
+
+[原网站](https://openhw.org/index.html)为文字
+
+![image-20211223112602388](webpage_structure.assets/image-20211223112602388.png)
+
 ## Banner
 
 ![Summer_camp](webpage_structure.assets/Summer_camp.jpg)
