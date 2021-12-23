@@ -138,26 +138,37 @@ Xilinx University Program Website : [www.xilinx.com/university](http://www.xilin
 #### From FPGA Innovation Contests(Link暂无)
 
 基于Artix-7的导线、网络长度测量仪
+利用两路相位相同、频率固定的正弦波之间的相位差和周期数，精准测量外部导线或网络长度
 
 ![image-20211221121510308](webpage_structure.assets/image-20211221121510308.png)
 
 基于FPGA的一种抗量子数字签名加密
 
+基于Rainbow抗量子算法开发了一套抗量子通信系统，该算法能够抵御目前已知网络信息伪造手段，其复杂度已经超过了量子计算机理论可暴力破解的范围
+
 ![image-20211221121622458](webpage_structure.assets/image-20211221121622458.png)
 
 基于FPGA的音游作曲一体机
+
+让广大音乐爱好者能随时随地创造音乐，让音乐小白能快速体验玩音乐的魅力。
 
 ![image-20211221121724343](webpage_structure.assets/image-20211221121724343.png)
 
 基于时滞储备池的混沌加密通信系统设计
 
- ![image-20211221121750751](webpage_structure.assets/image-20211221121750751.png)
+ 基于ZYNQ7020设计的混沌加密通信系统，应用储备池计算(Reservoir Computing)中的时滞储备池模型(Time-delay Reservoir)实现对视频的加密传输。![image-20211221121750751](webpage_structure.assets/image-20211221121750751.png)
 
 小规模SLAM视觉里程计加速专用电路
+
+利用专用设计电路，在加速SLAM视觉里程中实现了性能和面积的双赢
+
+
 
 ![image-20211221121816244](webpage_structure.assets/image-20211221121816244.png)
 
 基于RISC-V的积木式可拼接图像化编程系统
+
+一种灵活的，可拖拽的积木式编程系统，编程对象是移植于FPGA上的RISC-V软核
 
 ![image-20211221121833382](webpage_structure.assets/image-20211221121833382.png)
 
@@ -167,25 +178,37 @@ Xilinx University Program Website : [www.xilinx.com/university](http://www.xilin
 
 基于序列神经网络的自适应光纤传感系统
 
+将序列神经网络部署到FPGA平台，对传感信号进行处理，以恢复信道冲激响应，从而自适应调整传感系统状态。
+
 ![image-20211221121920594](webpage_structure.assets/image-20211221121920594.png)
 
 基于PYNQ-DPU的RSNA肺炎检测
+
+使用了Xilinx近年开发的DPU硬件平台，开发者只需要关注网络的训练和环境的搭建即可在多种网络间灵活切换。
 
 ![image-20211221121958141](webpage_structure.assets/image-20211221121958141.png)
 
 基于PYNQ的核酸采样装置
 
+在进行咽拭子核酸样本的采集过程中，医护人员采样过程中具有交叉感染风险。因此，可采用自动化的机器人设备来代替操作流程
+
 ![image-20211221122027674](webpage_structure.assets/image-20211221122027674.png)
 
 基于单目深度估计网络的全息显示终端
+
+单目深度估计，常用于增强现实和医学成像，有望取代现有的深度传感器，使用HLS搭建FastDepth网络
 
 ![image-20211221122055722](webpage_structure.assets/image-20211221122055722.png)
 
 基于神经网络的心肺音分离系统
 
+一款集采集，分离，音频和波形输出为一体的心肺音分离听诊系统。通过LSTM的特性对音频信号进行特征提取，实现即时的心肺音分离
+
 ![image-20211221122133093](webpage_structure.assets/image-20211221122133093.png)
 
 基于小型旋转永磁体式机械天线的跨介通信系统
+
+跨水-空介质直接通信在国防军事领域应用广泛，基于小型机械天线的低频电磁波收发技术是实现泛在跨介质通信的颠覆性方案
 
 ![image-20211221122229362](webpage_structure.assets/image-20211221122229362.png)
 
