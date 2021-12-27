@@ -1,3 +1,13 @@
+## 12.17 Update
+
+- 主页面
+
+  contest文字去除
+
+- Gallery（集锦）
+
+  右边栏所有内容暂时隐藏
+
 ## template: Fortune
 
 Banner -> Banner
