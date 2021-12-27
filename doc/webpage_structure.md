@@ -8,6 +8,13 @@
 
   右边栏所有内容暂时隐藏
 
+- Footer
+
+  暂时只保留最左侧Xilinx Logo和最右侧的contact us
+
+  - More about us -> 超链接到xilinx.com/university
+  - contact us -> xup_xilinx@xilinx.com
+
 ## template: Fortune
 
 Banner -> Banner
