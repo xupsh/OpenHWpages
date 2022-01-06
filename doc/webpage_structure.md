@@ -1,3 +1,17 @@
+# 1.6 Update
+
+Banner中的文字去除所有的Xilinx(仅保留camp、hackathon等)
+
+Featured Projects拼写错误 
+
+more projects超链接无跳转
+
+资源页面<主页>无跳转
+
+Contest部分删除
+
+galllery2.html中右边栏未删除
+
 ## 12.17 Update
 
 - 主页面
