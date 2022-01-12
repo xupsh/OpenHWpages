@@ -61,9 +61,9 @@ Service（子页面） -> Gallery/ Projects Archive
 
 ## Header Logo
 
-[原网站](https://openhw.org/index.html)为文字
+[原网站](https://openhw.org/index.html)为~~文字~~-> 改为XUPlogo
 
-![image-20211223112602388](webpage_structure.assets/image-20211223112602388.png)
+![xuplogo](img/webpage_structure/xuplogo.png)
 
 ## Banner
 
