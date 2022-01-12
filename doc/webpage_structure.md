@@ -1,3 +1,11 @@
+# 1.12 Update
+
+整个网站的logo换为 University Program 的logo
+
+FAQ & Rescources “最新活动”部分删除
+
+集锦第一页 header未删除
+
 # 1.6 Update
 
 Banner中的文字去除所有的Xilinx(仅保留camp、hackathon等)
