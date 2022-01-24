@@ -1,3 +1,15 @@
+## 1.24 Update
+
+Our Partners 中各图片链接至比赛官网？（如可行）
+
+悬停出现的文字现在均为media partner。
+
+CCC：定制计算挑战赛xupsh.github.io/ccc2021
+
+研电赛：研究生电子设计竞赛 https://cpipc.acge.org.cn/cw/hp/6
+
+FPGA竞赛：全国大学生FPGA创新设计竞赛 https://fpgachina.cn
+
 # 1.12 Update
 
 整个网站的logo换为 University Program 的logo
