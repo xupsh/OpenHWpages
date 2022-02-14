@@ -23,6 +23,10 @@
 - FAQ&Rescource
 
   只保留“OpenHW和其他比赛是什么关系”这一问题，并将下图放在右侧
+  
+- Partners 
+
+  FPGA竞赛链接变为http://www.fpgachina.cn
 
 ## 1.24 Update
 
