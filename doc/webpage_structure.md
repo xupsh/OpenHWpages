@@ -1,3 +1,29 @@
+## 2.14 Update
+
+- 本周上线
+
+- Featured Projects
+
+  - 头图更新（部分图片换成系统框图、demo、合影等）
+
+  - 图片尽量小
+  - 介绍删除
+
+- Gallary
+
+  - 集锦换为每行四个或更多
+  - 参考Xilinx Download Center,目前只留下21，20，19,剩余全部放在archive中
+  - archive由几个视频链接+表格
+    - 18年及以前的有视频的放5~6个视频链接，剩下的用表格说明年份+项目名称+队员姓名（在获奖名单中）
+
+- Program
+
+  - Hackathon一栏白色字换为创客马拉松，剩下的不变
+
+- FAQ&Rescource
+
+  只保留“OpenHW和其他比赛是什么关系”这一问题，并将下图放在右侧
+
 ## 1.24 Update
 
 Our Partners 中各图片链接至比赛官网？（如可行）
