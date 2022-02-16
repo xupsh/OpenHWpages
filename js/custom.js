@@ -204,7 +204,7 @@ function gallerycarousel () {
 		    responsive: {
 		        0:{
 		            items:1,
-		            autoWidth: false
+		            autoWidth: true
 		        },
 		        380:{
 		            items:2,
@@ -716,18 +716,18 @@ if ($('.latest-project-carousel').length) {
             '<i class="fa fa-angle-right"></i>'
         ],
         dots: false,
-        autoWidth: false,
+        autoWidth: true,
         autoplay: true,
         autoplayTimeout: 3000,
         autoplayHoverPause: true,
         responsive: {
             0: {
                 items: 1,
-                autoWidth: false
+                autoWidth: true
             },
             480: {
                 items: 1,
-                autoWidth: false
+                autoWidth: true
             },
             600: {
                 items: 2,
@@ -739,6 +739,14 @@ if ($('.latest-project-carousel').length) {
             },
             1000: {
                 items: 3,
+                autoWidth: false
+            },
+			1200: {
+                items: 4,
+                autoWidth: false
+            },
+			1500: {
+                items: 5,
                 autoWidth: false
             }
         }
