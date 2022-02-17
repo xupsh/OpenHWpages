@@ -1,4 +1,10 @@
-## 2.14 Update
+## 2.17 Update
+
+- top bar的“主页、资源、集锦”字体需要放大一些
+
+- FAQ & Resrc增加以下图片作为示意图![Indication](/Users/lesliex/Documents/XilinxOpenHW/doc/webpage_structure.assets/Indication.png)
+
+  # 2.14 Update
 
 - 本周上线
 
