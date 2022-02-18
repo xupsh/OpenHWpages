@@ -217,7 +217,8 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
     content: "";
     position: absolute;
     top: 48px;
-    left: 0;
+    /* left: 0; */
+    margin-left: -25px;
     width: 50px;
     height: 4px;
     background: #48c7ec;
@@ -225,6 +226,24 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 .section-title.center:before {
     left: 50%;
     margin-left: -25px;
+}
+
+.section-title-2 {
+  position: relative;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+  position: relative;
+  font-size: 32px;
+  text-transform: capitalize;
+}
+
+.section-title-2:before {
+  content: "";
+  position: absolute;
+  top: 48px;
+  width: 50px;
+  height: 4px;
+  background: #48c7ec;
 }
 
 
@@ -2360,7 +2379,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
     position: relative;
     overflow: hidden;
     -webkit-transform: translate3d(0px, 0px, 0px);
-    padding-top: 40px;
+    /* padding-top: 40px; */
 }
 .clients-section .owl-theme .owl-nav {
     margin: 0;
