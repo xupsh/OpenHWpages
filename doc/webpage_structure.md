@@ -1,8 +1,54 @@
+## 2.19 OpenHW21项目更新
+
+ [TundeRiNG: Generating Multiple Independent Random Number Sequences on FPGAs](https://www.bilibili.com/video/BV1Ab4y1t7ZK)
+
+![NUS](webpage_structure.assets/NUS.jpg)
+
+[RISC- V的积木式可拼接图形化编程系统](https://www.bilibili.com/video/BV1tL411K77a?spm_id_from=333.999.0.0)
+
+![RISCV](webpage_structure.assets/RISCV.jpg)
+
+[OpenHW2021优秀竞赛作品分享之工业模型生产体系遇见FPGA](https://www.bilibili.com/video/BV1RF411E7WR?spm_id_from=333.999.0.0)
+
+![ICCV](webpage_structure.assets/ICCV.jpg)
+
+[基于神经网络的心肺音分离系统](https://www.bilibili.com/video/BV1L44y1n7Cu?spm_id_from=333.999.0.0)
+
+![心肺音](webpage_structure.assets/心肺音.jpg)
+
+[基于FPGA的一种抗量子数字签名加密](https://www.bilibili.com/video/BV1aS4y1r73C)
+
+![量子加密](webpage_structure.assets/量子加密.jpg)
+
+[基于ZYNQ FPGA的高精度双目光学定位导航系统](https://www.bilibili.com/video/BV1Ni4y127nY)
+
+![光学定位](webpage_structure.assets/光学定位.jpg)
+
+[基于数据流的目标检测网络加速器](https://www.bilibili.com/video/BV14L411K7i3)
+
+![DAC_SDC](webpage_structure.assets/DAC_SDC.jpg)
+
+[CCC初赛队伍分享](https://www.bilibili.com/video/BV1wu411X7EH)
+
+![ccc初赛](webpage_structure.assets/ccc初赛.jpg)
+
+[CCC决赛队伍分享](https://www.bilibili.com/video/BV1db4y147FC)
+
+![CCC决赛](webpage_structure.assets/CCC决赛.jpg)
+
+[基于边缘计算的低功耗全时空生态监控系统](https://www.bilibili.com/video/BV1Di4y117nn)
+
+![生态监控](webpage_structure.assets/生态监控.jpg)
+
+[基于单目深度估计网络的全息显示终端](https://www.bilibili.com/video/BV12R4y1L7cB)
+
+![单目](webpage_structure.assets/单目.jpg)
+
 ## 2.17 Update
 
 - top bar的“主页、资源、集锦”字体需要放大一些
 
-- FAQ & Resrc增加以下图片作为示意图![Indication](/Users/lesliex/Documents/XilinxOpenHW/doc/webpage_structure.assets/Indication.png)
+- FAQ & Resrc增加以下图片作为示意图![Indication](./webpage_structure.assets/Indication.png)
 
   # 2.14 Update
 
