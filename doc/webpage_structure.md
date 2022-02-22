@@ -1,3 +1,21 @@
+# 2.22 Update
+
+Program中增加一栏“竞赛”，去掉our partners这一个section
+
+文案：竞赛（competition）：OpenHW与多项竞赛合作，给予优秀项目以支持和帮助，共建OpenHW社区
+
+竞赛hyperlink到新的子页面，子页面中对三个竞赛进行简单介绍
+
+竞赛logo（带超链接）+简介
+
+[全国大学生FPGA创新设计竞赛](www.fpgachina.cn)：为了加强全国高校学生在数字系统设计领域尤其是可编程逻辑器件应用领域创新设计与工程实践能力，培养大学生积极主动寻找工作任务并利用先进技术平台进行创新设计的能力，为社会培养具有创新思维、团队合作精神、解决复杂工程问题能力的优秀人才。
+
+研究生电子设计竞赛 [中国研究生创新实践系列大赛管理平台 (acge.org.cn)](https://cpipc.acge.org.cn/cw/hp/6)：中国研究生电子设计竞赛是面向全国在读研究生的一项团体性电子设计创新创意实践活动，以含金量高，参与程度深，综合素质要求高、与产业紧密结合为特色
+
+[定制计算算法实现挑战赛| CCC2021 (xupsh.github.io)](https://xupsh.github.io/ccc2021/)：CCF TCARCH- 计算机体系结构挑战赛是中国计算机学会体系结构专委会所举办的旨在挖掘计算机体系结构人才、激发学生对计算机体系结构的研究兴趣、培养学生创新精神的一项全国赛事。
+
+
+
 ## 2.19 OpenHW21项目更新
 
  [TundeRiNG: Generating Multiple Independent Random Number Sequences on FPGAs](https://www.bilibili.com/video/BV1Ab4y1t7ZK)
