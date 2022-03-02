@@ -1,3 +1,15 @@
+# 3.02 Update
+ 修复主页滚动头图的箭头标志漏洞
+
+ 主页集锦项目修改为可链接至b站的项目图片
+
+ 更改主页底部FAQ部分，改为关于OpenHW的内容，并内嵌XUP 10 周年视频
+
+ 网站使用Xilinx University Program logo的部分统一换用AMD Xilinx logo
+
+ 集锦中已有b站链接的项目加入超链接并提前至头部排列
+
+
 # 2.22 Update
 
 Program中增加一栏“竞赛”，去掉our partners这一个section

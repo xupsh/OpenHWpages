@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets\\revolution",
+    "\\assets\\revolution\\css",
+    "\\doc",
+    "\\js"
   ],
+  "SelectedNode": "\\doc\\webpage_structure.md",
   "PreviewInSolutionExplorer": false
 }
