@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\revolution",
+    "\\assets\\revolution\\css",
+    "\\assets\\revolution\\js",
+    "\\assets\\revolution\\js\\extensions",
     "\\css",
-    "\\doc",
-    "\\images"
+    "\\js"
   ],
-  "SelectedNode": "\\gallery.html",
+  "SelectedNode": "\\css\\style.css",
   "PreviewInSolutionExplorer": false
 }
