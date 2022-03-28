@@ -1,4 +1,42 @@
-# 3.07 Update
+# 3.25 Update
+
+#### From OpenHW2020 Seminar
+
+活动链接[GitHub - xupsh/OpenHW_2020: OpenHW_2020 seminar](https://github.com/xupsh/OpenHW_2020)
+
+项目：
+
+![第一名](../images/projects/2020/OpenHW/fudan.png)
+
+link: 开源H.265视频编码芯片IP核 http://openasic.org/
+
+![第二名](../images/projects/2020/OpenHW/shanghaitech.png)
+
+link: Design Space Exploration of Enegy Efficient Lightweight Neural Network on Edge FPGA https://github.com/jiangwx/SkrSkr
+
+![第三名](../images/projects/2020/OpenHW/pulsar.png)
+
+link: Algorithm-hardware co-design for pulsar coherent de-dispersion algorithm on FPGAhttps://github.com/kongxiangcong/Pulsar-FPGA
+
+![Result](../images/projects/2020/OpenHW/3.png)
+
+link: [基于HLS的LZ77数据压缩算法实现](https://github.com/bjrjk/HLS-LZ77)
+
+![Result](../images/projects/2020/OpenHW/jiangnan.png)
+
+link: [基于PYNQ的类脑计算平台](https://github.com/clancylea/SNN-simulator-NEST_14.0-xilinx_FPGA_cluster)
+
+![Result](../images/projects/2020/OpenHW/IK.png)
+
+link: [逆运动学算法的硬件加速](https://github.com/CICS-ICT/ik-acceleration)，论文 ["Dadu: Accelerating Inverse Kinematics for high-DOF robots"](http://ieeexplore.ieee.org/document/8060343/)
+
+![overview](../images/projects/2020/OpenHW/4.png)
+
+link : [基于FPGA异构平台神经网络加速器的设计与实现](https://github.com/dhm2013724/yolov2_xilinx_fpga)
+
+
+
+#3.07 Update
 修复集锦页面2021年第一行“基于神经网络的心肺音分离系统”“ThunderRiNG: 基于FPGA的多路随机数生成器”图片顺序错误
 
 # 3.06 Update
